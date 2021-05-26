@@ -1,0 +1,200 @@
+[
+  {
+    "id": "d1aedb65-7060-4ec8-b967-cf888429a86f",
+    "conversationId": "f871adea-3dd4-4200-a5e3-9eeccad090d0",
+    "body": "body",
+    "isPublic": true,
+    "dateCreated": "2019-04-15T09:47:38.2541358-05:00",
+    "readByUsers": [],
+    "subject": {
+      "id": "1",
+      "entityType": 2
+    },
+    "organization": null,
+    "user": {
+      "userId": 1,
+      "firstName": null,
+      "lastName": null
+    }
+  },
+  {
+    "id": "2405dea5-dc37-491a-b77c-5b25ddcc23ee",
+    "conversationId": "a11ed1c4-fc8d-4ba3-a645-e7e2af4d9464",
+    "body": "body",
+    "isPublic": true,
+    "dateCreated": "2019-04-15T09:48:42.7614664-05:00",
+    "readByUsers": [],
+    "subject": {
+      "id": "1",
+      "entityType": 2
+    },
+    "organization": null,
+    "user": {
+      "userId": 1,
+      "firstName": null,
+      "lastName": null
+    }
+  },
+  {
+    "id": "62549978-7e06-4631-8168-0ac629b00f03",
+    "conversationId": "8d987b49-3a66-44c1-a0a1-431617abf256",
+    "body": "body",
+    "isPublic": true,
+    "dateCreated": "2019-04-23T12:26:28.2415408-05:00",
+    "readByUsers": [],
+    "subject": {
+      "id": "1",
+      "entityType": 2
+    },
+    "organization": null,
+    "user": {
+      "userId": 1,
+      "firstName": null,
+      "lastName": null
+    }
+  },
+  {
+    "id": "e2ce038e-d08f-49ca-bf07-d19608855469",
+    "conversationId": "04d25df0-1763-4194-afca-06222da4102c",
+    "body": "body",
+    "isPublic": true,
+    "dateCreated": "2019-04-23T13:24:55.137792-05:00",
+    "readByUsers": [],
+    "subject": {
+      "id": "1",
+      "entityType": 2
+    },
+    "organization": null,
+    "user": {
+      "userId": 1,
+      "firstName": null,
+      "lastName": null
+    }
+  },
+  {
+    "id": "942cdbec-1b53-4473-b9f3-dc9f72a96bca",
+    "conversationId": "f02d5197-2b4e-435d-b6ba-347758a90478",
+    "body": "body",
+    "isPublic": true,
+    "dateCreated": "2019-04-24T15:22:32.1162495-05:00",
+    "readByUsers": [],
+    "subject": {
+      "id": "1",
+      "entityType": 2
+    },
+    "organization": null,
+    "user": {
+      "userId": 1,
+      "firstName": null,
+      "lastName": null
+    }
+  },
+  {
+    "id": "6bf26ed9-b484-451e-8852-bd6e28446030",
+    "conversationId": "8a9357df-8dbc-48c0-b302-e7ce568fe2ce",
+    "body": "body",
+    "isPublic": true,
+    "dateCreated": "2019-05-03T11:49:19.9802845-05:00",
+    "readByUsers": [],
+    "subject": {
+      "id": "1",
+      "entityType": 2
+    },
+    "organization": null,
+    "user": {
+      "userId": 1,
+      "firstName": null,
+      "lastName": null
+    }
+  },
+  {
+    "id": "477baea2-9448-4e97-bf94-bcfff7d86596",
+    "conversationId": "71bdde09-8b69-4eec-823d-e3b255b1074d",
+    "body": "body",
+    "isPublic": true,
+    "dateCreated": "2019-05-03T14:22:06.1443217-05:00",
+    "readByUsers": [],
+    "subject": {
+      "id": "1",
+      "entityType": 2
+    },
+    "organization": null,
+    "user": {
+      "userId": 1,
+      "firstName": null,
+      "lastName": null
+    }
+  },
+  {
+    "id": "1fa28e5c-5838-4636-bd70-64c2f8c19148",
+    "conversationId": "78a131ad-8891-4ede-bf3e-c6825d2cfc55",
+    "body": "body",
+    "isPublic": true,
+    "dateCreated": "2019-05-06T10:35:13.5032787-05:00",
+    "readByUsers": [],
+    "subject": {
+      "id": "1",
+      "entityType": 2
+    },
+    "organization": null,
+    "user": {
+      "userId": 1,
+      "firstName": null,
+      "lastName": null
+    }
+  },
+  {
+    "id": "3920e149-7b12-46e7-9ff4-2c88afd0c944",
+    "conversationId": "57c49978-0809-4eed-a78d-fff1f4813fc0",
+    "body": "body",
+    "isPublic": true,
+    "dateCreated": "2019-05-07T09:49:58.4426727-05:00",
+    "readByUsers": [],
+    "subject": {
+      "id": "1",
+      "entityType": 2
+    },
+    "organization": null,
+    "user": {
+      "userId": 1,
+      "firstName": "Johnny",
+      "lastName": "Tester"
+    }
+  },
+  {
+    "id": "702f319c-6823-4210-a870-bd79e5a6e27b",
+    "conversationId": "625a87a6-7324-41ba-91c3-93924edbf91b",
+    "body": "body",
+    "isPublic": true,
+    "dateCreated": "2019-05-07T10:03:41.1489081-05:00",
+    "readByUsers": [],
+    "subject": {
+      "id": "1",
+      "entityType": 2
+    },
+    "organization": null,
+    "user": {
+      "userId": 1,
+      "firstName": "Johnny",
+      "lastName": "Tester"
+    }
+  },
+  {
+    "id": "736a51a8-11ea-4d92-9074-82b1abcb8264",
+    "conversationId": "00ce6468-7756-440c-b9fe-eee7ebd1eeae",
+    "body": "body",
+    "isPublic": true,
+    "dateCreated": "2019-05-07T10:05:22.8674351-05:00",
+    "readByUsers": [],
+    "subject": {
+      "id": "1",
+      "entityType": 2
+    },
+    "organization": null,
+    "user": {
+      "userId": 1,
+      "firstName": "Johnny",
+      "lastName": "Tester"
+    }
+  }
+]

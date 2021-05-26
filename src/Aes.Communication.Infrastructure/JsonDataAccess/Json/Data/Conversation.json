@@ -1,0 +1,671 @@
+[
+  {
+    "id": "e44ba5c8-f319-4127-913a-c413a4799f16",
+    "subject": {
+      "id": "1",
+      "entityType": 3,
+      "type": "dispute"
+    },
+    "messages": [
+      {
+        "id": "00ba100e-0578-4a8c-aca6-b7fa3817499c",
+        "conversationId": "e44ba5c8-f319-4127-913a-c413a4799f16",
+        "body": "body",
+        "isPublic": true,
+        "dateCreated": "2019-06-05T12:28:57.8642583-05:00",
+        "readByUsers": [],
+        "subject": {
+          "id": "1",
+          "entityType": 2,
+          "type": "invoice"
+        },
+        "organization": {
+          "id": 1,
+          "name": "Manufactured Taste, Inc."
+        },
+        "user": {
+          "userId": 1,
+          "firstName": "Johnny",
+          "lastName": "Tester",
+          "email": null
+        },
+        "attachments": [
+          {
+            "fileId": "1",
+            "fileName": "file1.pdf",
+            "filePath": "http://file1",
+            "fileSize": "100MB"
+          },
+          {
+            "fileId": "2",
+            "fileName": "file2.pdf",
+            "filePath": "http://file2",
+            "fileSize": "200MB"
+          }
+        ]
+      }
+    ],
+    "dateCreated": "2019-06-05T12:28:57.7070539-05:00",
+    "createdByUserId": 1,
+    "topic": {
+      "title": "title",
+      "attributes": {
+        "field1": "Value1",
+        "field2": "Value2"
+      }
+    },
+    "userFlags": [],
+    "organizationId": 1,
+    "counterpartyId": 2,
+    "parent": {
+      "id": "12345",
+      "entityType": 1,
+      "type": "tieout"
+    }
+  },
+  {
+    "id": "7fde2d5e-9f42-4ad5-a761-9e011792e112",
+    "subject": {
+      "id": "1",
+      "entityType": 3,
+      "type": "dispute"
+    },
+    "messages": [],
+    "dateCreated": "2019-06-05T12:30:15.8356719-05:00",
+    "createdByUserId": 1,
+    "topic": {
+      "title": "title",
+      "attributes": {
+        "field1": "Value1",
+        "field2": "Value2"
+      }
+    },
+    "userFlags": [
+      {
+        "conversationId": "7fde2d5e-9f42-4ad5-a761-9e011792e112",
+        "userId": 1,
+        "dateCreated": "2019-06-05T12:30:16.060842-05:00"
+      },
+      {
+        "conversationId": "7fde2d5e-9f42-4ad5-a761-9e011792e112",
+        "userId": 2,
+        "dateCreated": "2019-06-05T12:30:16.0612425-05:00"
+      }
+    ],
+    "organizationId": 1,
+    "counterpartyId": 2,
+    "parent": {
+      "id": "12345",
+      "entityType": 1,
+      "type": "tieout"
+    }
+  },
+  {
+    "id": "ff66616a-f55d-4a10-8b8c-d4bba805c73c",
+    "subject": {
+      "id": "1",
+      "entityType": 3,
+      "type": "dispute"
+    },
+    "messages": [
+      {
+        "id": "bc6bc4fd-9f39-47b4-9091-444b89617f47",
+        "conversationId": "ff66616a-f55d-4a10-8b8c-d4bba805c73c",
+        "body": "body",
+        "isPublic": true,
+        "dateCreated": "2019-06-05T12:30:25.7618338-05:00",
+        "readByUsers": [],
+        "subject": {
+          "id": "1",
+          "entityType": 2,
+          "type": "invoice"
+        },
+        "organization": {
+          "id": 1,
+          "name": "Manufactured Taste, Inc."
+        },
+        "user": {
+          "userId": 1,
+          "firstName": "Johnny",
+          "lastName": "Tester",
+          "email": null
+        },
+        "attachments": [
+          {
+            "fileId": "1",
+            "fileName": "file1.pdf",
+            "filePath": "http://file1",
+            "fileSize": "100MB"
+          },
+          {
+            "fileId": "2",
+            "fileName": "file2.pdf",
+            "filePath": "http://file2",
+            "fileSize": "200MB"
+          }
+        ]
+      }
+    ],
+    "dateCreated": "2019-06-05T12:30:25.5093691-05:00",
+    "createdByUserId": 1,
+    "topic": {
+      "title": "title",
+      "attributes": {
+        "field1": "Value1",
+        "field2": "Value2"
+      }
+    },
+    "userFlags": [],
+    "organizationId": 1,
+    "counterpartyId": 2,
+    "parent": {
+      "id": "12345",
+      "entityType": 1,
+      "type": "tieout"
+    }
+  },
+  {
+    "id": "86c42513-9fb1-4009-af56-40488afdf393",
+    "subject": {
+      "id": "1",
+      "entityType": 3,
+      "type": "dispute"
+    },
+    "messages": [
+      {
+        "id": "e4b94197-3e6a-4531-844a-c8d261a1ef5a",
+        "conversationId": "86c42513-9fb1-4009-af56-40488afdf393",
+        "body": "body",
+        "isPublic": true,
+        "dateCreated": "2019-06-05T12:32:38.6548073-05:00",
+        "readByUsers": [],
+        "subject": {
+          "id": "1",
+          "entityType": 2,
+          "type": "invoice"
+        },
+        "organization": {
+          "id": 1,
+          "name": "Manufactured Taste, Inc."
+        },
+        "user": {
+          "userId": 1,
+          "firstName": "Johnny",
+          "lastName": "Tester",
+          "email": null
+        },
+        "attachments": [
+          {
+            "fileId": "1",
+            "fileName": "file1.pdf",
+            "filePath": "http://file1",
+            "fileSize": "100MB"
+          },
+          {
+            "fileId": "2",
+            "fileName": "file2.pdf",
+            "filePath": "http://file2",
+            "fileSize": "200MB"
+          }
+        ]
+      }
+    ],
+    "dateCreated": "2019-06-05T12:32:38.6455117-05:00",
+    "createdByUserId": 1,
+    "topic": {
+      "title": "title",
+      "attributes": {
+        "field1": "Value1",
+        "field2": "Value2"
+      }
+    },
+    "userFlags": [],
+    "organizationId": 1,
+    "counterpartyId": 2,
+    "parent": {
+      "id": "12345",
+      "entityType": 1,
+      "type": "tieout"
+    }
+  },
+  {
+    "id": "fa4ade0a-a261-4ddb-acb7-2aaaf7aad1be",
+    "subject": {
+      "id": "1",
+      "entityType": 3,
+      "type": "dispute"
+    },
+    "messages": [],
+    "dateCreated": "2019-06-05T12:32:38.6639672-05:00",
+    "createdByUserId": 1,
+    "topic": {
+      "title": "title",
+      "attributes": {
+        "field1": "Value1",
+        "field2": "Value2"
+      }
+    },
+    "userFlags": [],
+    "organizationId": 1,
+    "counterpartyId": 2,
+    "parent": {
+      "id": "12345",
+      "entityType": 1,
+      "type": "tieout"
+    }
+  },
+  {
+    "id": "59622810-c957-473b-855c-ac5f6dd3152d",
+    "subject": {
+      "id": "1",
+      "entityType": 3,
+      "type": "dispute"
+    },
+    "messages": [],
+    "dateCreated": "2019-06-05T12:32:38.678589-05:00",
+    "createdByUserId": 1,
+    "topic": {
+      "title": "title",
+      "attributes": {
+        "field1": "Value1",
+        "field2": "Value2"
+      }
+    },
+    "userFlags": [
+      {
+        "conversationId": "59622810-c957-473b-855c-ac5f6dd3152d",
+        "userId": 1,
+        "dateCreated": "2019-06-05T12:32:38.6927796-05:00"
+      },
+      {
+        "conversationId": "59622810-c957-473b-855c-ac5f6dd3152d",
+        "userId": 2,
+        "dateCreated": "2019-06-05T12:32:38.6929639-05:00"
+      }
+    ],
+    "organizationId": 1,
+    "counterpartyId": 2,
+    "parent": {
+      "id": "12345",
+      "entityType": 1,
+      "type": "tieout"
+    }
+  },
+  {
+    "id": "bb130f16-5617-4111-b8f9-b444177c702b",
+    "subject": {
+      "id": "1",
+      "entityType": 3,
+      "type": "dispute"
+    },
+    "messages": [
+      {
+        "id": "b951acec-f2c1-472b-9bb6-ae5a76f896ed",
+        "conversationId": "bb130f16-5617-4111-b8f9-b444177c702b",
+        "body": "body",
+        "isPublic": true,
+        "dateCreated": "2019-06-25T09:46:35.1432462-05:00",
+        "readByUsers": [],
+        "subject": {
+          "id": "1",
+          "entityType": 2,
+          "type": "invoice"
+        },
+        "organization": {
+          "id": 1,
+          "name": "Manufactured Taste, Inc."
+        },
+        "user": {
+          "userId": 1,
+          "firstName": "Johnny",
+          "lastName": "Tester",
+          "email": null
+        },
+        "attachments": [
+          {
+            "fileId": "1",
+            "fileName": "file1.pdf",
+            "filePath": "http://file1",
+            "fileSize": "100MB"
+          },
+          {
+            "fileId": "2",
+            "fileName": "file2.pdf",
+            "filePath": "http://file2",
+            "fileSize": "200MB"
+          }
+        ]
+      }
+    ],
+    "dateCreated": "2019-06-25T09:46:35.1328873-05:00",
+    "createdByUserId": 1,
+    "topic": {
+      "title": "title",
+      "attributes": {
+        "field1": "Value1",
+        "field2": "Value2"
+      }
+    },
+    "userFlags": [],
+    "organizationId": 1,
+    "counterpartyId": 2,
+    "parent": {
+      "id": "12345",
+      "entityType": 1,
+      "type": "tieout"
+    }
+  },
+  {
+    "id": "93d58d3e-e7da-4da4-9636-c26f8d51fbff",
+    "subject": {
+      "id": "1",
+      "entityType": 3,
+      "type": "dispute"
+    },
+    "messages": [],
+    "dateCreated": "2019-06-25T09:46:35.1552978-05:00",
+    "createdByUserId": 1,
+    "topic": {
+      "title": "title",
+      "attributes": {
+        "field1": "Value1",
+        "field2": "Value2"
+      }
+    },
+    "userFlags": [],
+    "organizationId": 1,
+    "counterpartyId": 2,
+    "parent": {
+      "id": "12345",
+      "entityType": 1,
+      "type": "tieout"
+    }
+  },
+  {
+    "id": "10219f3b-aa67-47f6-a532-72b7f48b536a",
+    "subject": {
+      "id": "1",
+      "entityType": 3,
+      "type": "dispute"
+    },
+    "messages": [],
+    "dateCreated": "2019-06-25T09:46:35.1738057-05:00",
+    "createdByUserId": 1,
+    "topic": {
+      "title": "title",
+      "attributes": {
+        "field1": "Value1",
+        "field2": "Value2"
+      }
+    },
+    "userFlags": [
+      {
+        "conversationId": "10219f3b-aa67-47f6-a532-72b7f48b536a",
+        "userId": 1,
+        "dateCreated": "2019-06-25T09:46:35.1858917-05:00"
+      },
+      {
+        "conversationId": "10219f3b-aa67-47f6-a532-72b7f48b536a",
+        "userId": 2,
+        "dateCreated": "2019-06-25T09:46:35.1861067-05:00"
+      }
+    ],
+    "organizationId": 1,
+    "counterpartyId": 2,
+    "parent": {
+      "id": "12345",
+      "entityType": 1,
+      "type": "tieout"
+    }
+  },
+  {
+    "id": "2a0edce4-7848-4dc4-9014-f1f1850e5bcb",
+    "subject": {
+      "id": "1",
+      "entityType": 3,
+      "type": "dispute"
+    },
+    "messages": [
+      {
+        "id": "b8169552-bda0-4f39-92f0-2ef7dfa9842e",
+        "conversationId": "2a0edce4-7848-4dc4-9014-f1f1850e5bcb",
+        "body": "body",
+        "isPublic": true,
+        "dateCreated": "2019-06-05T12:32:21.5967992-05:00",
+        "readByUsers": [],
+        "subject": {
+          "id": "1",
+          "entityType": 2,
+          "type": "invoice"
+        },
+        "organization": {
+          "id": 1,
+          "name": "Manufactured Taste, Inc."
+        },
+        "user": {
+          "userId": 1,
+          "firstName": "Johnny",
+          "lastName": "Tester",
+          "email": null
+        },
+        "attachments": null
+      },
+      {
+        "id": "f96991d5-e555-470a-a2c5-456854c4cb48",
+        "conversationId": "2a0edce4-7848-4dc4-9014-f1f1850e5bcb",
+        "body": "body",
+        "isPublic": true,
+        "dateCreated": "2019-06-05T12:32:38.6061798-05:00",
+        "readByUsers": [],
+        "subject": {
+          "id": "1",
+          "entityType": 2,
+          "type": "invoice"
+        },
+        "organization": {
+          "id": 1,
+          "name": "Manufactured Taste, Inc."
+        },
+        "user": {
+          "userId": 1,
+          "firstName": "Johnny",
+          "lastName": "Tester",
+          "email": null
+        },
+        "attachments": null
+      },
+      {
+        "id": "22652470-df0c-450f-a6ed-22156f1da960",
+        "conversationId": "2a0edce4-7848-4dc4-9014-f1f1850e5bcb",
+        "body": "body",
+        "isPublic": true,
+        "dateCreated": "2019-06-25T09:46:35.1029823-05:00",
+        "readByUsers": [],
+        "subject": {
+          "id": "1",
+          "entityType": 2,
+          "type": "invoice"
+        },
+        "organization": {
+          "id": 1,
+          "name": "Manufactured Taste, Inc."
+        },
+        "user": {
+          "userId": 1,
+          "firstName": "Johnny",
+          "lastName": "Tester",
+          "email": null
+        },
+        "attachments": null
+      },
+      {
+        "id": "a95b1ef0-ff73-47c0-9600-839a971e8e10",
+        "conversationId": "2a0edce4-7848-4dc4-9014-f1f1850e5bcb",
+        "body": "body",
+        "isPublic": true,
+        "dateCreated": "2019-06-28T16:18:25.3081412-05:00",
+        "readByUsers": [],
+        "subject": {
+          "id": "1",
+          "entityType": 2,
+          "type": "invoice"
+        },
+        "organization": {
+          "id": 1,
+          "name": "Manufactured Taste, Inc."
+        },
+        "user": {
+          "userId": 1,
+          "firstName": "Johnny",
+          "lastName": "Tester",
+          "email": null
+        },
+        "attachments": null
+      }
+    ],
+    "dateCreated": "2019-06-05T12:28:21.8890177-05:00",
+    "createdByUserId": 1,
+    "topic": {
+      "title": "title",
+      "attributes": {
+        "field1": "Value1",
+        "field2": "Value2"
+      }
+    },
+    "userFlags": [],
+    "organizationId": 1,
+    "counterpartyId": 2,
+    "parent": {
+      "id": "12345",
+      "entityType": 1,
+      "type": "tieout"
+    }
+  },
+  {
+    "id": "490ede62-2d8f-420c-9273-28adb312d1ef",
+    "subject": {
+      "id": "1",
+      "entityType": 3,
+      "type": "dispute"
+    },
+    "messages": [
+      {
+        "id": "82280c96-2ffa-4e25-bddd-78c3a656d384",
+        "conversationId": "490ede62-2d8f-420c-9273-28adb312d1ef",
+        "body": "body",
+        "isPublic": true,
+        "dateCreated": "2019-06-28T16:18:25.3520478-05:00",
+        "readByUsers": [],
+        "subject": {
+          "id": "1",
+          "entityType": 2,
+          "type": "invoice"
+        },
+        "organization": {
+          "id": 1,
+          "name": "Manufactured Taste, Inc."
+        },
+        "user": {
+          "userId": 1,
+          "firstName": "Johnny",
+          "lastName": "Tester",
+          "email": null
+        },
+        "attachments": [
+          {
+            "fileId": "1",
+            "fileName": "file1.pdf",
+            "filePath": "http://file1",
+            "fileSize": "100MB"
+          },
+          {
+            "fileId": "2",
+            "fileName": "file2.pdf",
+            "filePath": "http://file2",
+            "fileSize": "200MB"
+          }
+        ]
+      }
+    ],
+    "dateCreated": "2019-06-28T16:18:25.3402918-05:00",
+    "createdByUserId": 1,
+    "topic": {
+      "title": "title",
+      "attributes": {
+        "field1": "Value1",
+        "field2": "Value2"
+      }
+    },
+    "userFlags": [],
+    "organizationId": 1,
+    "counterpartyId": 2,
+    "parent": {
+      "id": "12345",
+      "entityType": 1,
+      "type": "tieout"
+    }
+  },
+  {
+    "id": "17cf557c-89ff-4b78-a0a7-00b8d1e6bf71",
+    "subject": {
+      "id": "1",
+      "entityType": 3,
+      "type": "dispute"
+    },
+    "messages": [],
+    "dateCreated": "2019-06-28T16:18:25.3682451-05:00",
+    "createdByUserId": 1,
+    "topic": {
+      "title": "title",
+      "attributes": {
+        "field1": "Value1",
+        "field2": "Value2"
+      }
+    },
+    "userFlags": [],
+    "organizationId": 1,
+    "counterpartyId": 2,
+    "parent": {
+      "id": "12345",
+      "entityType": 1,
+      "type": "tieout"
+    }
+  },
+  {
+    "id": "75bc96a5-da1e-468d-8cf7-cd629ad91f5b",
+    "subject": {
+      "id": "1",
+      "entityType": 3,
+      "type": "dispute"
+    },
+    "messages": [],
+    "dateCreated": "2019-06-28T16:18:25.3837146-05:00",
+    "createdByUserId": 1,
+    "topic": {
+      "title": "title",
+      "attributes": {
+        "field1": "Value1",
+        "field2": "Value2"
+      }
+    },
+    "userFlags": [
+      {
+        "conversationId": "75bc96a5-da1e-468d-8cf7-cd629ad91f5b",
+        "userId": 1,
+        "dateCreated": "2019-06-28T16:18:25.3963582-05:00"
+      },
+      {
+        "conversationId": "75bc96a5-da1e-468d-8cf7-cd629ad91f5b",
+        "userId": 2,
+        "dateCreated": "2019-06-28T16:18:25.3965229-05:00"
+      }
+    ],
+    "organizationId": 1,
+    "counterpartyId": 2,
+    "parent": {
+      "id": "12345",
+      "entityType": 1,
+      "type": "tieout"
+    }
+  }
+]

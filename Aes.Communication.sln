@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{1DA1D843-67A6-46DD-9C2C-82A350C9A9C5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aes.Communication.Api", "src\Aes.Communication.Api\Aes.Communication.Api.csproj", "{CF4DD697-886E-49A8-A233-74EC3753EB90}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aes.Communication.Application", "src\Aes.Communication.Application\Aes.Communication.Application.csproj", "{EBF7A81F-B251-427F-BFB9-3816B641B40D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aes.Communication.Domain", "src\Aes.Communication.Domain\Aes.Communication.Domain.csproj", "{033BB35B-866C-4AE1-BB1A-2BA491F84E7E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aes.Communication.Infrastructure", "src\Aes.Communication.Infrastructure\Aes.Communication.Infrastructure.csproj", "{3069E4A1-0EC6-4235-9DB7-D780F5661C6B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aes.Communication.Application.Tests", "tests\Aes.Communication.Application.Tests\Aes.Communication.Application.Tests.csproj", "{104A9C7B-AEC3-4EEA-9FFD-FD876B23308D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aes.Communication.Domain.Tests", "tests\Aes.Communication.Domain.Tests\Aes.Communication.Domain.Tests.csproj", "{1F6F5F09-F670-45C6-822B-F176E1E8CB75}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aes.Communication.Infrastructure.Tests", "tests\Aes.Communication.Infrastructure.Tests\Aes.Communication.Infrastructure.Tests.csproj", "{88865E8D-AED4-4260-BB05-517301703422}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aes.Communication.Tests.Common", "tests\Aes.Communication.Tests.Common\Aes.Communication.Tests.Common.csproj", "{459694F8-CAFD-4FB8-A5EE-26477CB6622A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aes.Communication.Api.Tests", "tests\Aes.Communication.Api.Tests\Aes.Communication.Api.Tests.csproj", "{6A4293C4-AB6A-4318-AD0E-FBD53784E394}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF4DD697-886E-49A8-A233-74EC3753EB90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF4DD697-886E-49A8-A233-74EC3753EB90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF4DD697-886E-49A8-A233-74EC3753EB90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF4DD697-886E-49A8-A233-74EC3753EB90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBF7A81F-B251-427F-BFB9-3816B641B40D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF7A81F-B251-427F-BFB9-3816B641B40D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF7A81F-B251-427F-BFB9-3816B641B40D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF7A81F-B251-427F-BFB9-3816B641B40D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{033BB35B-866C-4AE1-BB1A-2BA491F84E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{033BB35B-866C-4AE1-BB1A-2BA491F84E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{033BB35B-866C-4AE1-BB1A-2BA491F84E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{033BB35B-866C-4AE1-BB1A-2BA491F84E7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3069E4A1-0EC6-4235-9DB7-D780F5661C6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3069E4A1-0EC6-4235-9DB7-D780F5661C6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3069E4A1-0EC6-4235-9DB7-D780F5661C6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3069E4A1-0EC6-4235-9DB7-D780F5661C6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{104A9C7B-AEC3-4EEA-9FFD-FD876B23308D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{104A9C7B-AEC3-4EEA-9FFD-FD876B23308D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{104A9C7B-AEC3-4EEA-9FFD-FD876B23308D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{104A9C7B-AEC3-4EEA-9FFD-FD876B23308D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F6F5F09-F670-45C6-822B-F176E1E8CB75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F6F5F09-F670-45C6-822B-F176E1E8CB75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F6F5F09-F670-45C6-822B-F176E1E8CB75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F6F5F09-F670-45C6-822B-F176E1E8CB75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88865E8D-AED4-4260-BB05-517301703422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88865E8D-AED4-4260-BB05-517301703422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88865E8D-AED4-4260-BB05-517301703422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88865E8D-AED4-4260-BB05-517301703422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{459694F8-CAFD-4FB8-A5EE-26477CB6622A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{459694F8-CAFD-4FB8-A5EE-26477CB6622A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{459694F8-CAFD-4FB8-A5EE-26477CB6622A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{459694F8-CAFD-4FB8-A5EE-26477CB6622A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A4293C4-AB6A-4318-AD0E-FBD53784E394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A4293C4-AB6A-4318-AD0E-FBD53784E394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A4293C4-AB6A-4318-AD0E-FBD53784E394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A4293C4-AB6A-4318-AD0E-FBD53784E394}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{104A9C7B-AEC3-4EEA-9FFD-FD876B23308D} = {1DA1D843-67A6-46DD-9C2C-82A350C9A9C5}
+		{1F6F5F09-F670-45C6-822B-F176E1E8CB75} = {1DA1D843-67A6-46DD-9C2C-82A350C9A9C5}
+		{88865E8D-AED4-4260-BB05-517301703422} = {1DA1D843-67A6-46DD-9C2C-82A350C9A9C5}
+		{459694F8-CAFD-4FB8-A5EE-26477CB6622A} = {1DA1D843-67A6-46DD-9C2C-82A350C9A9C5}
+		{6A4293C4-AB6A-4318-AD0E-FBD53784E394} = {1DA1D843-67A6-46DD-9C2C-82A350C9A9C5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE21363C-7B20-4200-817E-7CE70DD83662}
+	EndGlobalSection
+EndGlobal

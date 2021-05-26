@@ -1,0 +1,29 @@
+[
+  {
+    "id": "3abc5dc5-f569-4091-ab07-224f393ad212",
+    "dateOccurred": "2019-06-05T12:32:38.3441475-05:00",
+    "name": "TestEventHappened",
+    "content": {
+      "$type": "<>f__AnonymousType0`1[[System.String, System.Private.CoreLib]], Aes.Communication.Infrastructure.Tests",
+      "value": ":)"
+    }
+  },
+  {
+    "id": "b784494b-4c04-46c9-a03f-e896610be19f",
+    "dateOccurred": "2019-06-25T09:46:34.8326022-05:00",
+    "name": "TestEventHappened",
+    "content": {
+      "$type": "<>f__AnonymousType0`1[[System.String, System.Private.CoreLib]], Aes.Communication.Infrastructure.Tests",
+      "value": ":)"
+    }
+  },
+  {
+    "id": "7319ae02-e9e2-4c27-b04d-6c06ce212f70",
+    "dateOccurred": "2019-06-28T16:18:25.0579889-05:00",
+    "name": "TestEventHappened",
+    "content": {
+      "$type": "<>f__AnonymousType0`1[[System.String, System.Private.CoreLib]], Aes.Communication.Infrastructure.Tests",
+      "value": ":)"
+    }
+  }
+]
